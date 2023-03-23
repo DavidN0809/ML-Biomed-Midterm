@@ -1,6 +1,6 @@
 # ML-Biomed-Midterm
 
-**Train a binary classifier (called A) on the dataset using transfer learning (exactly like Assignment 1). The images should be downscaled to 128x128
+## Train a binary classifier (called A) on the dataset using transfer learning (exactly like Assignment 1). The images should be downscaled to 128x128
 The above requirement is done in the Model A notebook
 
 Train the SRGAN for at least 150 epochs
