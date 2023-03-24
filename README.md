@@ -20,8 +20,7 @@ The above requirement is done in the Model B notebook, images were generated int
 This is done in the Comparison notebook.
 
 # How to use 
-Download the repo with the below command
-git clone https://github.com/DavidN0809/ML-Biomed-Midterm.git
+Download the repo with the following command. git clone https://github.com/DavidN0809/ML-Biomed-Midterm.git
 ## Step 1
 Run the Model A notebook, it will save the figures into the ./figs directory.
 
