@@ -21,6 +21,9 @@ This is done in the Comparison notebook.
 
 # How to use 
 Download the repo with the following command. git clone https://github.com/DavidN0809/ML-Biomed-Midterm.git
+##Create Conda Env
+Run conda env create -f environment.yml -n midterm then conda activate midterm
+
 ## Step 1
 Run the Model A notebook, it will save the figures into the ./figs directory.
 
