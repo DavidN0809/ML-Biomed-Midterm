@@ -21,7 +21,7 @@ This is done in the Comparison notebook.
 
 # How to use 
 Download the repo with the following command. git clone https://github.com/DavidN0809/ML-Biomed-Midterm.git
-##Create Conda Env
+## Create Conda Env
 Run conda env create -f environment.yml -n midterm then conda activate midterm
 
 ## Step 1
