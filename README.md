@@ -19,3 +19,20 @@ The above requirement is done in the Model B notebook, images were generated int
 ## Compare the performance of both models using different metrics such as F1, Accuracy, AUC
 This is done in the Comparison notebook.
 
+# How to use 
+Download the repo with the below command
+git clone https://github.com/DavidN0809/ML-Biomed-Midterm.git
+## Step 1
+Run the Model A notebook, it will save the figures into the ./figs directory.
+
+## Step 2
+Run the SRGAN notebook to train and save the generator and discriminator models.
+
+## Step 3
+Run the Generating 128x128 Images notebook to generate the images for model B.
+
+## Step 4
+Run model B notebook it will save the figures into the ./figs directory.
+
+## Step 5 
+Run the comparison notebook to view all the saved figures
